@@ -71,8 +71,18 @@ article {
     h1, h2 {
         margin-bottom: 0;
     }
+
+    time + p {
+        margin-top: 2em;
+    }
 }
 
 footer {
     margin: 2rem 0;
+}
+
+@media only screen and (max-width: 480px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
 }
