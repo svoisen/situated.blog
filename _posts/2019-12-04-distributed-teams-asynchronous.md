@@ -12,7 +12,7 @@ The last chapter of her collection of CBC Massey Lectures, ["The Real World of T
 
 It got me thinking about working at [Mozilla](https://www.mozilla.org) and the highly-distributed nature of the "place." When I first joined Mozilla, the biggest change in work dynamics that I had to adjust to came from the fact that it was the first time I'd ever worked on _and managed_ a fully distributed team. While I had worked on partially-distributed teams prior to Mozilla, and had spent nearly two years as a remote engineer on a partially-distributed team at [Adobe](https://www.adobe.com), I had never managed a fully-distributed team scattered across the globe.
 
-Mozilla's [Platform Layout team](https://wiki.mozilla.org/Platform/Layout) — the team responsible for the part of the Firefox browser engine that lays out and styles web pages — is scattered from Australia and Japan to North America to Europe. We have, on average, six different time zones to deal with.
+Mozilla's [Platform Layout team](https://wiki.mozilla.org/Platform/Layout) — the team responsible for the part of the Firefox browser engine that lays out and styles web pages — is scattered from Australia and Japan to North America to Europe. We have, on average, six different time zones to deal with. I'm not going to lie; it's a pain at times.
 
 Growing and maintaining a positive team culture is challenging when everyone is in the same office. Accomplishing the same when nearly everyone is in working from home or in a different office across multiple continents is ... difficult. Franklin foresaw this in 1989:
 
