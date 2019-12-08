@@ -5,6 +5,28 @@ body {
     text-rendering: optimizeLegibility;
     -webkit-text-size-adjust: 100%;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background: #f8f8f8;
+}
+
+a,a:visited {
+    background: lightgoldenrodyellow;
+    color: black;
+    
+    &:hover {
+        color: #cc0000;
+    }
+}
+
+a.active {
+    background: black;
+    padding: 0.5rem;
+    color: white;
+    font-weight: bold;
+
+    &:hover {
+        background: #cc0000;
+        color: white;
+    }
 }
 
 header p strong {
@@ -15,32 +37,12 @@ header h1 {
     text-transform: uppercase;
 }
 
-.post-title {
-    background: black;
-    margin: 10rem 0;
-    color: white;
-    padding: 2rem;
-    font-weight: bold;
-}
-
-a,a:visited {
-    color: black;
-    font-weight: bold;
-    
-    &:hover {
-        color: dodgerblue;
-    }
-}
-
-a.active {
-    background: black;
-    padding: 0.5rem;
-    color: white;
+header a {
+    background: transparent;
     font-weight: bold;
 }
 
 blockquote {
-    background: #f9f9f9;
     border-left: 5px solid black;
     font-size: 120%;
     margin: 2rem 0;
