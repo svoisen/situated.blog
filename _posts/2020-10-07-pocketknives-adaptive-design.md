@@ -16,7 +16,7 @@ As a father, I think about this a lot. I constantly encounter moments where I ha
 
 So much of the technology we buy now are hermetically sealed, disposable devices not intended to be fixed or upgraded or tampered with. In fact, in most cases it's actively discouraged or prohibited. Perhaps this stems from Apple idolatry; you can't easily open an iPad or an iPhone, for instance. And you can't even easily upgrade the memory in many laptops anymore. When things break, or become outdated, you throw them away and buy something newer. When it comes to hardware, most modern electronics and computing devices are not customizable except for the most adept and determined hacker. They're certainly not old tube radios or the Wintel desktop PC of the mid-90s. And the software side of things isn't much better these days.
 
-Dan Hill suggests:
+[Dan Hill](https://twitter.com/cityofsound) suggests:
 
 <blockquote class="quoteback" darkmode="" data-title="Architecture%20and%20interaction%20design%2C%20via%20adaptation%20and%20hackability" data-author="Dan Hill" cite="https://medium.com/a-chair-in-a-room/architecture-and-interaction-design-via-adaptation-and-hackability-a51204564a1d">
 If we are to invite the user in, we need to leave some of the seams and traces open for others to explore; some sense of what the process of design, or un-design, might entail.
