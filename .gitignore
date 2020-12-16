@@ -8,3 +8,5 @@ _drafts
 _site
 .DS_Store
 .git
+vendor/
+.bundle/
