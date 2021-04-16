@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Neat and scruffy work in digital tools
+summary: Can we do better at building software that supports both neat and messy work?
+image: /assets/images/ferenc-horvath-4gKHjKG7ty4-unsplash.jpg
 ---
 
 <figure>
