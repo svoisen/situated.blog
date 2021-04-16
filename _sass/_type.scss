@@ -82,6 +82,17 @@ pre {
     width: 100%;
 }
 
+figure {
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+figcaption {
+    font-size: 0.8rem;
+    color: #333333;
+    text-align: right;
+}
+
 .date {
     opacity: 0.6;
 }
