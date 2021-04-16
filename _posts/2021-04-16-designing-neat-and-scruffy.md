@@ -12,7 +12,7 @@ Sometimes creative work is neat, orderly, tidy, but most of the time it's not—
 
 <hr>
 
-In 2001, David Kirsh, a professor of cognitive science at UCSD, published [The Context of Work](http://interactivity.ucsd.edu/articles/HCI/final.html), an 18-page analysis of the typical office environment and its impact on human cognition. I first read this paper over a decade ago, and I somehow manage to unwittingly revisit it every few years. It haunts my thoughts—not my thoughts about office design (I don't have many), but rather how I think about the design of software tools.
+In 2001, David Kirsh, a professor of cognitive science at UCSD, published [The Context of Work](http://interactivity.ucsd.edu/articles/HCI/final.html), an 18-page analysis of the typical office environment and its impact on human cognition. I first read this paper over a decade ago, and I somehow manage to unwittingly revisit it every few years. It haunts my thoughts—not necessarily my thoughts about office design (I don't have many), but rather my thoughts on the design of software tools.
 
 "The Context of Work" analyzes a office spaces through the lens of [distributed cognition](https://en.wikipedia.org/wiki/Distributed_cognition), a theory of cognition which posits that human thought doesn't just happen "inside our heads," but is instead distributed externally through our use of tools, social relationships, and artifacts in our immediate environment. According to distributed cognition, in order to fully understand human thought we must take into account how much we humans offload our thinking _to the world_—through notes, diagrams, models, maps, team collaboration, and other such externalities. 
 
